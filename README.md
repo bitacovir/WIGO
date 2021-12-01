@@ -10,6 +10,8 @@ The main idea is to have components that can be moved to another possition, chan
 The system is still at a conceptual level. But it can be thought as parts built with CNC machines using Cross Laminated Timber (CLT) panels.
 https://en.wikipedia.org/wiki/Cross-laminated_timber
 
+The components are files with FreeCAD format. I recommend to use non-parametric copies to assemble them.
+To open de file use https://www.freecadweb.org/
 
 ![](https://github.com/bitacovir/WIGO/blob/main/Images/proto1.jpg)
 ![](https://github.com/bitacovir/WIGO/blob/main/Images/Puerta.jpg)
